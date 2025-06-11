@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# IDE files
+.idea/
+.vscode/
+*.sublime*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Distribution / packaging
+dist/
+build/
+*.zip
+*.tar.gz
+
+# Dependency directories
+jspm_packages/
+bower_components/

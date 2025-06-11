@@ -1,0 +1,17 @@
+{
+  "name": "driver-license-verification",
+  "version": "1.0.0",
+  "description": "A Bootstrap-based static web page for driver license verification with selfie capture functionality",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve ."
+  },
+  "keywords": [
+    "verification",
+    "selfie",
+    "driver-license",
+    "bootstrap"
+  ],
+  "author": "",
+  "license": "MIT"
+}
